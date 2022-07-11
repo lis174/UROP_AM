@@ -7,3 +7,6 @@ For an explanation of the code, AM_function_exp.ipynb can be viewed that explain
 For the world analysis of AM_script.py, I have used the datasets:
 - CMIP6.HighResMIP.MOHC.HadGEM3-GC31-HM.highres-future.r1i1p1f1.day.tas.gn
 - CMIP6.HighResMIP.MOHC.HadGEM3-GC31-HM.hist-1950.r1i1p1f1.day.tas.gn
+
+Most datasets can be also be found under this link (Imperial institutional access only):
+https://imperiallondon-my.sharepoint.com/:f:/g/personal/lb1519_ic_ac_uk/Eqjxf4Z0VVdJiFwe9pOY_7cB4b77GnWHq0WsCBc5jYeUIg?e=z7mzaN
